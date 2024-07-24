@@ -1,6 +1,3 @@
-Sure! Here's a README.md file for a Blackjack game played using the terminal in Python:
-
-```markdown
 # Blackjack Terminal Game
 
 Welcome to the Blackjack Terminal Game! This is a simple implementation of the classic card game Blackjack, also known as 21, played in the terminal using Python.
@@ -95,6 +92,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the repository URL, contribute guidelines, and other details to suit your specific project needs.
